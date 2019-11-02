@@ -8,5 +8,5 @@ counter += 1
 #counter = counter +1 
 end
 
-new_array
+return new_array
 end
