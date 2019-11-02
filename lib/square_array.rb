@@ -9,4 +9,5 @@ counter += 1
 end
 
 return new_array
+
 end
